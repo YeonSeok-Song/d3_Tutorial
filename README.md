@@ -1,8 +1,9 @@
 # d3_Tutorial
 
-d3 tutorial results
+- d3 tutorial results
 If data cannot be loaded, execute it in the following order
 server.js is implemented with node.js and provides only the function to load files.
+
 1. open server.js
 2. edit server.js
 ```jsx
