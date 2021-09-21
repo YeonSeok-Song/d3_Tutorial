@@ -1,6 +1,23 @@
 # d3_Tutorial
 
 d3 tutorial results
+If data cannot be loaded, execute it in the following order
+server.js is implemented with node.js and provides only the function to load files.
+1. open server.js
+2. edit server.js
+```jsx
+if(path === `/file name`) { 
+    response.writeHead(200,{'Content-Type':'text'});
+    fs.readFile(__dirname + '/filename', (err, data) => {
+        if (err) {
+            return console.error(err);
+        }
+        response.end(data, 'utf-8');
+    });
+}
+```
+3. node server.js
+4. browser -> localhost:3000
 
 ## SVG.js
 ![1](https://user-images.githubusercontent.com/50234866/134144921-a7e533ad-ef74-4943-8070-f55440614cd9.PNG)
