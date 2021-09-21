@@ -1,6 +1,36 @@
 # d3_Tutorial
 
 ## SVG.js
+![1](https://user-images.githubusercontent.com/50234866/134144921-a7e533ad-ef74-4943-8070-f55440614cd9.PNG)
+
+## visualizingData.js
+![2](https://user-images.githubusercontent.com/50234866/134144926-67cb5067-7fe7-4578-9d30-835197508ae1.PNG)
+
+## Scale.js
+![3](https://user-images.githubusercontent.com/50234866/134144939-ecfd6921-bd1b-413c-a5be-faf70018a408.PNG)
+
+## group and axes
+![4](https://user-images.githubusercontent.com/50234866/134144988-a53c9dfc-3dda-470f-929a-ea35c79786e1.PNG)
+
+## enter update exit
+![5](https://user-images.githubusercontent.com/50234866/134144996-23434716-4d6c-4b7d-afb1-cd894d2484b3.PNG)
+
+## translate
+![6](https://user-images.githubusercontent.com/50234866/134145001-aee7f8c4-3493-4e40-97e2-f0d916d1dd75.PNG)
+
+## array function
+![7](https://user-images.githubusercontent.com/50234866/134145020-93482a21-c8e1-41e1-9474-89aedd13ec9c.PNG)
+
+## loading data
+
+## path
+![8](https://user-images.githubusercontent.com/50234866/134145069-e16feb39-ef9e-4127-ac0b-9516eb63587c.PNG)
+
+## arcs
+![9](https://user-images.githubusercontent.com/50234866/134145084-677419dd-02c6-43fc-8a09-a6ccd76478ab.PNG)
+
+## tree
+## SVG.js
 
 ![1.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96147aaa-a6db-4cc2-8df5-ed0d100fb797/1.png)
 
@@ -39,11 +69,10 @@
 ![9.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b68ce99-1f0d-4801-8cb5-7ffd4e118c0e/9.png)
 
 ## tree
-
 ![10.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4488eac6-69d1-4d75-a8cd-9b6352210d82/10.png)
 
 ## histogram
 
 ## candlestick
+![11](https://user-images.githubusercontent.com/50234866/134145159-d20a9e77-2429-45dc-ba8b-9b91915db1bb.PNG)
 
-![11.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0859d378-d523-40be-90cb-99367eb4b823/11.png)
