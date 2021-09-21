@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <title>D3 tutorial</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <body>
+        <p>This is a paragraph</p>
+        <!-- <script src="data1.json"></script>
+        <script src="data2.csv"></script> -->
+        <script>
+            d3.select("p").text("hello my d3 file");
+            d3.select("body").append("div").text("make div")
+            console.log(d3)
+        </script>
+        <!-- <script src="SVG.js"></script> -->
+        <!-- <script src="visualizingData.js"></script> -->
+        <!-- <script src="Scale.js"></script> -->
+        <!-- <script src="groupAndAxes.js"></script> -->
+        <!-- <script src="enterUpdateExit.js"></script> -->
+        <!-- <script src="translate.js"></script> -->
+        <!-- <script src="workingWithArrays.js"></script> -->
+        <!-- <script src="loadingExternalData.js"></script> -->
+        <!-- <script src="path.js"></script> -->
+        <!-- <script src="Arcs.js"></script> -->
+        <!-- <script src="Tree.js"></script> -->
+        <!-- <script src="histogram.js"></script> -->
+        <script src="candleStick.js"></script>
+        <!-- <svg id="lowerSVG" width="300" height="60">
+            <circle r="25" cx="30" cy="30" fill="lightblue" />
+            <circle id="red" r="25" cx="90" cy="30" fill="red" />
+            <circle id="violet" r="25" cx="150" cy="30" fill="violet" />
+            <circle r="25" cx="210" cy="30" fill="lightblue" />
+        </svg>
+        <script>  
+            function lower() {  
+              d3.select("#lowerSVG")
+                .selectAll("#pink,#violet")
+                .lower();
+                
+              d3.select("#lowerSVG")
+                .selectAll("circle")
+                .attr("cx", (d, i) => 30 + (i * 60)); 
+            }
+        </script>
+        <button onclick="lower()">Lower</button> -->
+    </body>
+</html>
